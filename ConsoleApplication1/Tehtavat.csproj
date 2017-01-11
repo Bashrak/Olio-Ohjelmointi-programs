@@ -7,8 +7,8 @@
     <ProjectGuid>{278DC6D3-8421-41F6-8091-15550AE75141}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <RootNamespace>Olio_Ohjelmointi_programs</RootNamespace>
+    <AssemblyName>Olio_Ohjelmointi_programs</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="T_01.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
